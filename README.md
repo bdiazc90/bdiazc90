@@ -1,6 +1,8 @@
 # Hola soy Bruno Díaz 👋
-Soy un apasionado por el desarrollo de software.
 
+![Foto de perfil de bruno diaz](/profile_brunodiaz.jpg)
+
+Soy un apasionado por el desarrollo de software.
 Puedes conocer mis proyectos aquí:
 
 - [Guvery.com](https://www.guvery.com)
